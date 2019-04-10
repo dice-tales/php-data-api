@@ -5,6 +5,7 @@
 .vscode
 .idea
 .git
+.gitignore
 tests
 fixtures
 coverage
